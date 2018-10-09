@@ -1,0 +1,9 @@
+com.h2rd.refactoring
+com.h2rd.refactoring.controller
+com.h2rd.refactoring.dao
+com.h2rd.refactoring.javatestsb
+com.h2rd.refactoring.model
+com.h2rd.refactoring.service
+com.h2rd.refactoring.utilities
+test.com.h2rd.refactoring.integration
+test.com.h2rd.refactoring.unit

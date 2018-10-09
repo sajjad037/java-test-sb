@@ -48,7 +48,7 @@ public class UserDao {
 	/**
 	 * Get Users
 	 * 
-	 * @return ArrayList<User>
+	 * @return - ArrayList of User
 	 */
 	public ArrayList<User> getUsers() {
 		try {
@@ -128,8 +128,7 @@ public class UserDao {
 
 	/**
 	 * Find a user by email
-	 * 
-	 * @param name String
+	 * @param email String
 	 * @return User
 	 */
 	public User findUserByEmail(String email) {
